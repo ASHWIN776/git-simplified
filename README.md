@@ -32,5 +32,18 @@ $ git config --global user.email johndoe@example.com
 ```
 
 ## Recording Changes to the Repository
+1. Checking the status of files
+```
+$git status
+```
 
+2. Tracking New Files and Staging them
+```
+$ git add <fileName>
+```
+
+3. Committing your Changes
+```
+$ git commit
+```
 ## Viewing Commit History
