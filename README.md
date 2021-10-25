@@ -20,7 +20,7 @@ $ sudo apt install git-all
 ### In macOS
 There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. On Mavericks (10.9) or above you can do this simply by trying to run git from the Terminal the very first time.
 ```
-git --version
+$ git --version
 ```
 
 ## Git Setup
@@ -47,3 +47,7 @@ $ git add <fileName>
 $ git commit
 ```
 ## Viewing Commit History
+After you have created several commits, or if you have cloned a repository with an existing commit history, you’ll probably want to look back to see what has happened.
+```
+$ git log
+```
