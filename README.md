@@ -47,3 +47,7 @@ $ git add <fileName>
 $ git commit
 ```
 ## Viewing Commit History
+After you have created several commits, or if you have cloned a repository with an existing commit history, you’ll probably want to look back to see what has happened.
+```
+git log
+```
