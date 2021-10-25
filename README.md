@@ -13,7 +13,9 @@ The most official build is available for download on the Git website. Just go to
 
 ### In Linux
 For Debian based distribution, use `apt`:
-`$ sudo apt install git-all`
+```
+$ sudo apt install git-all
+```
 
 ### In macOS
 There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. On Mavericks (10.9) or above you can do this simply by trying to run git from the Terminal the very first time.
